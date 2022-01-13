@@ -28,7 +28,7 @@
 // MPU SDA - Pin A4
 // MPU SCL - Pin A5
 // BT   TX - Pin D0 RX
-// BT   RX - Pin D0 TX
+// BT   RX - Pin D1 TX
 
 
 // Servomotores
