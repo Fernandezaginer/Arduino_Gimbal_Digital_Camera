@@ -12,7 +12,7 @@ Trabajo libre con arduino <br>
 Realizado por: Andrés Fernández Muñoz (55237) <br>
 Grado: Ingeniería Electrónica Automática e Industrial <br>
 Curso: 2021/2022 <br>
-Asignatura: Regulación Automática <br>
+Asignatura: Regulación Automática <br><br>
 
 Publicación en Thingiverse:<br>
 https://www.thingiverse.com/thing:5198473<br>
