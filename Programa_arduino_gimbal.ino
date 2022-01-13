@@ -155,7 +155,7 @@ void loop()
 
   // COMPENSACIÓN DEL ERROR EJE PITCH:
   if (ang1 > 2.0) {
-    //angulo_1 -= (int)abs(ang - (float)angulo_1);
+    
     if(ang1 < 10.0){
       ang_1f = ang_1f - 1;      
     }
@@ -167,7 +167,7 @@ void loop()
   }
 
   if (ang1 < -2.0) {
-    //angulo_1 += (int)abs(ang - (float)angulo_1);
+    
     if(ang1 > -10.0){
       ang_1f = ang_1f + 1;      
     }
