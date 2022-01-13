@@ -19,3 +19,9 @@ Video del proyecto:<br>
 
 Publicación en Thingiverse:<br>
 https://www.thingiverse.com/thing:5198473<br>
+
+Programas del proyecto:<br>
+https://github.com/Fernandezaginer/Arduino_Gimbal_Digital_Camera<br>
+
+Video del protecto:<br>
+https://youtu.be/I12GMhbFFeI<br>
