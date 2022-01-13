@@ -1,7 +1,7 @@
 
 % Puerto serie (bluetooth)
-delete(instrfind({'Port'},{'COM9'}));
-s = serial('COM9','BaudRate',9600,'Terminator','CR/LF');
+delete(instrfind({'Port'},{'COM8'}));
+s = serial('COM8','BaudRate',9600,'Terminator','CR/LF');
 fopen(s);
 
 % Configuración de las gráficas en tiempo real
