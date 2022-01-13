@@ -17,5 +17,5 @@ Asignatura: Regulación Automática <br>
 Video del proyecto:<br>
 (en proecso)<br>
 
-Programas del proyecto:<br>
-(en proecso)<br>
+Publicación en Thingiverse:<br>
+https://www.thingiverse.com/thing:5198473<br>
