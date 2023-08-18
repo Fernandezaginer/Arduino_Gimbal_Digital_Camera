@@ -7,6 +7,9 @@ Estabilizador casero para cámara de fotos (Gimbal)
 UPM-Universidad Politécnica de Madrid <br>
 ETSIDI-Escuela Técnica Superior de Ingeniería y Diseño Industrial <br>
 
+![Portada_](https://github.com/Fernandezaginer/Arduino_Gimbal_Digital_Camera/assets/73385513/0a3ec69a-f7c2-48c2-908b-2968e0542683)
+
+
 
 Trabajo libre con arduino <br>
 Realizado por: Andrés Fernández Muñoz (55237) <br>
