@@ -5,13 +5,11 @@ UPM-Polytechnic University of Madrid, ETSIDI<br>
 Author: Andrés Fernández Muñoz (55237) <br>
 Degree: Automatic and Industrial Electronics Engineering <br>
 Academic year: 2021/2022 <br>
-Subject: Control Engineering <br><br>
-
-Original name: Estabilizador casero para cámara de fotos (Gimbal)
+Subject: Control Engineering <br>
+Original name: Estabilizador casero para cámara de fotos (Gimbal) <br> <br>
 
 <div align="center">
-<img src="Media/Img.jpg" alt="Gimbal" display="block" margin-left="auto"  margin-right="auto" width="50%">
-<p>Otto Robot</p>
+<img src="Media/Img.jpg" alt="Gimbal" display="block" margin-left="auto"  margin-right="auto" width="65%">
 <br>
 </div>
 
